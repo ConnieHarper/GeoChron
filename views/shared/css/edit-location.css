@@ -1,0 +1,13 @@
+.myLocationSelectForDelete {
+color:#c8c8c8;
+font-style:italic;
+}
+.myLocationSelected {
+border-width: 3px;
+border-color: green ;
+border-style:solid;
+background-color:#B9D5B9;
+-moz-border-radius: 15px;
+border-radius: 15px;
+}
+
